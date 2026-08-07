@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-9f1vxu.i-pacdashboard.in/sitemap.xml
